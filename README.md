@@ -14,6 +14,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/bruna-finholdt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bruna-finholdt/" height="30" width="40" /></a>
 <a href="https://instagram.com/bruna.finholdt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bruna.finholdt" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discordapp.com/users/Bruna%20Finholdt#5160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/Bruna%20Finholdt#5160" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

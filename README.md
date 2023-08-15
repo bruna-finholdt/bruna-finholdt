@@ -14,6 +14,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bruna-finholdt&show_icons=true&locale=en&layout=compact" alt="bruna-finholdt" /></p>
 
+
 <div> 
  <a href="https://www.instagram.com/bruna.finholdt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:brunaperez1991@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

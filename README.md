@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **a high-level project for an agricultural multinational**
 
-- 🌱 I’m currently enriching my knowledge in **.NET**
+- 🌱 I’m currently enriching my knowledge in **React**
 
 - 📫 How to reach me **brunaperez1991@gmail.com**
 

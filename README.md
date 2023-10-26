@@ -1,11 +1,3 @@
-<head>
-<style>
-a {
-    text-decoration: none !important;
-}
-</style>
-</head>
-
 <h1 align="center">Hi 👋, I'm Bruna Finholdt</h1>
 <h3 align="center">A front-end developer who loves what she does</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">

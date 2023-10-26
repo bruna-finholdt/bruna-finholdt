@@ -1,3 +1,4 @@
+<head>
 <style>
 [data-a11y-link-underlines=true] .markdown-body a,
 [data-a11y-link-underlines=true] .markdown-body a:hover,
@@ -8,6 +9,7 @@
     text-decoration: none;
 }
 </style>
+</head>
 
 <h1 align="center">Hi 👋, I'm Bruna Finholdt</h1>
 <h3 align="center">A front-end developer who loves what she does</h3>

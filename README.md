@@ -1,6 +1,13 @@
-[data-a11y-link-underlines=true] .markdown-body a, [data-a11y-link-underlines=true] .markdown-body a:hover, [data-a11y-link-underlines=true] .commit-desc a, [data-a11y-link-underlines=true] .commit-desc a:hover, [data-a11y-link-underlines=true] .Link--inTextBlock, [data-a11y-link-underlines=true] .Link--inTextBlock:hover {
+<style>
+[data-a11y-link-underlines=true] .markdown-body a,
+[data-a11y-link-underlines=true] .markdown-body a:hover,
+[data-a11y-link-underlines=true] .commit-desc a,
+[data-a11y-link-underlines=true] .commit-desc a:hover,
+[data-a11y-link-underlines=true] .Link--inTextBlock,
+[data-a11y-link-underlines=true] .Link--inTextBlock:hover {
     text-decoration: none;
 }
+</style>
 
 <h1 align="center">Hi 👋, I'm Bruna Finholdt</h1>
 <h3 align="center">A front-end developer who loves what she does</h3>

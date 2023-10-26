@@ -1,3 +1,7 @@
+[data-a11y-link-underlines=true] .markdown-body a, [data-a11y-link-underlines=true] .markdown-body a:hover, [data-a11y-link-underlines=true] .commit-desc a, [data-a11y-link-underlines=true] .commit-desc a:hover, [data-a11y-link-underlines=true] .Link--inTextBlock, [data-a11y-link-underlines=true] .Link--inTextBlock:hover {
+    text-decoration: none;
+}
+
 <h1 align="center">Hi 👋, I'm Bruna Finholdt</h1>
 <h3 align="center">A front-end developer who loves what she does</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">

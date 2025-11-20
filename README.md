@@ -2,9 +2,9 @@
 <h3 align="center">A front-end developer who loves what she does</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🔭 I’m currently working on **a high-level project for an agricultural multinational**
+- 🔭 I’m currently working for **for a major Brazilian bank**
 
-- 🌱 I’m currently enriching my knowledge in **Data & Analytics**
+- 🌱 I’m currently enriching my knowledge in **Distributed Systems**
 
 - 📫 How to reach me **brunaperez1991@gmail.com**
 
